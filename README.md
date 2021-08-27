@@ -1,4 +1,3 @@
 # Aluno
 
-* Nicolas Bissoli Nattis
-* RA: 222903
+* `222903`: `Nicolas Bissoli Nattis`
